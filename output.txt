@@ -1,0 +1,5 @@
+Cascavel Corbelia Braganey Ubirata 
+Cascavel - | 0 BR | 2 PR | 3 fye | 12 
+Corbelia BR | 2 - | 0 - | 0 FD | 4 
+Braganey PR | 3 - | 0 - | 0 CG | 5 
+Ubirata fye | 12 FD | 4 CG | 5 - | 0 
